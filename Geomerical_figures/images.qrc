@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/resource">
+        <file>Pictures/Ellipse.jpg</file>
+        <file>Pictures/Cylinder.jpg</file>
+        <file>Pictures/Circle.jpg</file>
+        <file>Pictures/Ball.jpg</file>
+        <file>Pictures/Torus.jpg</file>
+        <file>Pictures/Pyramid.jpg</file>
+        <file>Pictures/Ellipsoid.jpg</file>
+        <file>Pictures/Cuboid.jpg</file>
+        <file>Pictures/Cone4.jpg</file>
+        <file>Pictures/Polygon2.jpg</file>
+        <file>Pictures/Triangle2.jpg</file>
+        <file>Pictures/Parallelogram2.jpg</file>
+        <file>Pictures/Trapezium2.jpg</file>
+    </qresource>
+</RCC>
